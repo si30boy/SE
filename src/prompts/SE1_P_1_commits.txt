@@ -1,0 +1,5 @@
+GPT-5
+SE1_P_1 Initial commit: basic structure and menus added
+SE1_P_1 Added student registration and book borrowing
+SE1_P_1 Added employee and admin functionalities
+SE1_P_1 Final version for submission
